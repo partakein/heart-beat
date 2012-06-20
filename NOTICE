@@ -1,9 +1,9 @@
 HeartBeatChecker for partake.in
-http://code.google.com/p/partakein/
-Copyright 2011 The PARTAKE Committers All Rights Reserved.
+https://github.com/partakein/heart-beat
+Copyright 2011-2012 The PARTAKE Committers All Rights Reserved.
 
 
-This product includes the Google App Engine SDK for Java version 1.4.2
+This product includes the Google App Engine SDK for Java version 1.5.0
 from http://code.google.com/p/googleappengine/
 Copyright (c) 2011 Google
 
